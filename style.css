@@ -1,0 +1,219 @@
+body {
+    background-color: black;
+    position: relative;
+}
+
+.content {
+    position: absolute;
+    background-color: #fff;
+    width: 95%;
+    height: 2231px;
+    margin-left: 45px;
+    margin-top: -8px;
+margin-bottom: -7px;
+}
+
+.intro {
+    width: 200px;
+    height: 100px;
+    margin-left: 60px;
+    margin-top: 30px;
+}
+
+#company {
+    margin-left: 122px;
+    margin-top: -48px;
+    font-size: 37px;
+    color: green;
+
+}
+
+.nav-bar {
+    float: right;
+}
+
+#symbol {
+    font-size: 31px;
+    margin-top: -70px;
+    margin-right: 100px;
+}
+
+.food {
+
+    width: 450px;
+    height: 420px;
+    background-color: rgb(242, 239, 233);
+    margin-left: 167px;
+    margin-top: 35px;
+    border-radius: 228px;
+}
+
+#img {
+    width: 450px;
+    height: 420px;
+    border-radius: 185px;
+}
+
+.right-box {
+    width: 600px;
+    height: 400px;
+    /* background-color: red; */
+    float: right;
+    margin-top: -320px;
+    margin-left: 30px;
+    margin-right: 165px;
+}
+
+.green-box {
+    background-color: rgb(24, 239, 24);
+    color: white;
+    height: 25px;
+    width: 225px;
+    font-size: 20px;
+    text-align: center;
+}
+
+#enjoy {
+    font-size: 60px;
+    margin-top: 20px;
+
+}
+
+#food {
+    font-size: 60px;
+    margin-top: -50px;
+
+}
+
+#p1 {
+    margin-top: -35px;
+}
+
+#p2 {
+    margin-top: -12px;
+}
+
+.explore {
+
+    width: 210px;
+    height: 46px;
+    background-color: orange;
+    opacity: 60%;
+    color: white;
+}
+
+#now {
+    text-align: center;
+    margin: auto;
+}
+
+.outer-box {
+    width: 100%;
+    height: 250px;
+    position: relative;
+    border-bottom: 1px solid;
+}
+
+.first {
+    position: absolute;
+    width: 235px;
+    height: 100px;
+    margin-left: 325px;
+    margin-top: 75px;
+}
+
+#dv {
+    font-size: 20px;
+    margin-top: -81px;
+    margin-left: 77px;
+}
+
+.second {
+    position: absolute;
+    width: 280px;
+    height: 100px;
+    margin-left: 600px;
+    margin-top: 75px;
+
+}
+
+#fhf {
+    font-size: 20px;
+    margin-top: -81px;
+    margin-left: 100px;
+}
+
+.third {
+    position: absolute;
+    width: 280px;
+    height: 100px;
+    margin-left: 920px;
+    margin-top: 75px;
+}
+
+.menu {
+    width: 120px;
+    height: 35px;
+    background-color: green;
+    font-size: 25px;
+    margin-left: 650px;
+    margin-top: 40px;
+    color: white;
+    padding-top: 2px;
+    text-align: center;
+}
+
+.images {
+    width: 85%;
+    height: 828px;
+    margin: auto;
+}
+
+.footer {
+    background-color: lightpink;
+    width: 100%;
+    height: 250px;
+    margin-top: 160px;
+
+}
+
+#company2 {
+    margin-left: 330px;
+    margin-top: -45px;
+    font-size: 37px;
+    color: green;
+}
+
+.first-box {
+    width: 170px;
+    height: 170px;
+    /* background-color: red; */
+    margin-top: -100px;
+    margin-left: 550px;
+}
+
+ul {
+    list-style-type: none;
+    margin-left: -36px;
+    margin-top: 15px;
+    font-size: 20px;
+
+}
+
+.second-box {
+    width: 170px;
+    height: 170px;
+    /* background-color: red; */
+    margin-top: -168px;
+    margin-left: 800px;
+
+}
+
+.last-box {
+    width: 250px;
+    height: 230px;
+    /* background-color: red; */
+    margin-top: -168px;
+    margin-left: 1050px;
+
+}
